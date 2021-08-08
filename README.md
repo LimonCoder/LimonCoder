@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/LimonCoder/LimonCoder/blob/main/limon.jpg)
+# Hi there !
 
 # LimonCoder
 I'm Nurul Amin Limon, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
