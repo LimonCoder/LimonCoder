@@ -1,18 +1,22 @@
 <h1 align="center">Hi 👋, I'm Nurul Amin LImon</h1>
 <h3 align="center">A passionate Jr. Web developer from Bangladesh</h3>
 
+- 🔭 I’m currently working on [Brick_App](http://amarbrick.com/)
+
 - 🌱 I’m currently learning **Vue.js**
 
 - 🤝 I’m looking for help with [Digital Municipility](apps.digitalpoura.org/)
+
+- 👨‍💻 All of my projects are available at [https://limoncoder.github.io/Portfolio/?fbclid=IwAR2zhGXEJbHq9AE6mswmNJ6vHGAqe4rLm4vXtsj7JR2HBuKjjb6-CFld8jY](https://limoncoder.github.io/Portfolio/?fbclid=IwAR2zhGXEJbHq9AE6mswmNJ6vHGAqe4rLm4vXtsj7JR2HBuKjjb6-CFld8jY)
 
 - 📫 How to reach me **limonfpi408@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nurul amin limon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nurul amin limon" height="30" width="40" /></a>
-<a href="https://fb.com/nurul amin limon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nurul amin limon" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nurul-amin-limon-98b330215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nurul-amin-limon-98b330215" height="30" width="40" /></a>
+<a href="https://fb.com/limon369949" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="limon369949" height="30" width="40" /></a>
 <a href="https://instagram.com/ariyan_limon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ariyan_limon" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nurul amin limon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nurul amin limon" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucjubltmfbcwkezwbky-eatg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucjubltmfbcwkezwbky-eatg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
