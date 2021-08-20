@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nurul Amin LImon</h1>
+<h1 align="center">Hi 👋, I'm Nurul Amin Limon</h1>
 <h3 align="center">A passionate Jr. Web developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on [Brick_App](http://amarbrick.com/)
