@@ -7,9 +7,11 @@
 
 - 🤝 I’m looking for help with [Digital Municipility](apps.digitalpoura.org/)
 
-- 👨‍💻 All of my projects are available at [https://limoncoder.github.io/Portfolio/?fbclid=IwAR2zhGXEJbHq9AE6mswmNJ6vHGAqe4rLm4vXtsj7JR2HBuKjjb6-CFld8jY](https://limoncoder.github.io/Portfolio/?fbclid=IwAR2zhGXEJbHq9AE6mswmNJ6vHGAqe4rLm4vXtsj7JR2HBuKjjb6-CFld8jY)
+- 👨‍💻 All of my projects are available at [https://limoncoder.github.io/Portfolio/](https://limoncoder.github.io/Portfolio/)
 
 - 📫 How to reach me **limonfpi408@gmail.com**
+
+- 📄 Know about my experiences [https://limoncoder.github.io/Portfolio/cv/Nurul%20Amin%20Limon.pdf](https://limoncoder.github.io/Portfolio/cv/Nurul%20Amin%20Limon.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
