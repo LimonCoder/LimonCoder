@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nurul Amin Limon</h1>
-<h3 align="center">A passionate Jr. Web developer from Bangladesh</h3>
+<h3 align="center">A passionate Software developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on [Brick_App](http://amarbrick.com/)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **limonfpi408@gmail.com**
 
-- 📄 Know about my experiences [https://limoncoder.github.io/Portfolio/cv/Nurul%20Amin%20Limon.pdf](https://limoncoder.github.io/Portfolio/cv/Nurul%20Amin%20Limon.pdf)
+- 📄 Know about my experiences [https://limoncoder.github.io/Portfolio/cv/Cv of Nurul Amin Limon.pdf](https://limoncoder.github.io/Portfolio/cv/Cv of Nurul Amin Limon.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
