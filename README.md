@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nurul Amin Limon</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [BTRC-LIMS](https://osspid.org/)
+- 🔭 I’m currently working on [Mutation 2.0.0 ]([https://osspid.org/](https://alpha-mutation.land.gov.bd/))
 
 - 🌱 I’m currently learning **Docker, AWS, Jenkins & K8S**
-
-- 🤝 I’m looking for help with [E-Mutation](https://mutation.land.gov.bd/)
 
 - 👨‍💻 All of my projects are available at [https://limoncoder.github.io/Portfolio/](https://limoncoder.github.io/Portfolio/)
 
 - 📫 How to reach me **limonfpi408@gmail.com**
-
-- 📄 Know about my experiences [https://limoncoder.github.io/Portfolio/cv/Cv of Nurul Amin Limon.pdf](https://limoncoder.github.io/Portfolio/cv/Cv of Nurul Amin Limon.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
