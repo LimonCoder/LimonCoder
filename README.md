@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [BTRC-LIMS](https://osspid.org/)
 
-- 🌱 I’m currently learning **Big Data Engineering**
+- 🌱 I’m currently learning **Docker, AWS, Jenkins & K8S**
 
 - 🤝 I’m looking for help with [E-Mutation](https://mutation.land.gov.bd/)
 
